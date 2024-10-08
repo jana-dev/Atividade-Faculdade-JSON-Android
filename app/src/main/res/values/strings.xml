@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade 2 Json</string>
+    <string name="app_title">Armazenamento de dados com Json</string>
+    <string name="app_subtitle">Insira seus dados para cadastro</string>
+    <string name="hint_nome">Digite seu nome</string>
+    <string name="hint_email">Digite seu e-mail</string>
+    <string name="hint_senha">Crie sua senha</string>
+    <string name="btn_enviar">Enviar dados</string>
+    <string name="btn_recuperar">Recuperar dados</string>
+</resources>
